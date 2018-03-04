@@ -1,4 +1,6 @@
-# LINX-O (Logic Identification of uNique eXploit (Kit) - Objects) - A Tool to Find Commonalities in Exploit Kit Objects from Packet Captures.
+# LINX-O (Logic Identification of uNique eXploit (Kit) - Objects) 
+
+A Tool to Find Commonalities in Exploit Kit Objects from Packet Captures. <br />
 
 * The tool uses TF-IDF short for term frequency–inverse document frequency, is a numerical statistic that is intended to reflect how important a word is to a document in a collection. 
 * Search engines have been known to use TF-IDF.
